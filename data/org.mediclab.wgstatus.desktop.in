@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=wg-status-vala
+Exec=wg-status-vala
+Icon=org.mediclab.wgstatus
+Terminal=false
+Type=Application
+Categories=GTK;
+StartupNotify=true

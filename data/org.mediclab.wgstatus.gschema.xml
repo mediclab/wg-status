@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<schemalist gettext-domain="wg-status-vala">
+	<schema id="org.mediclab.wgstatus" path="/org/mediclab/wgstatus/">
+	</schema>
+</schemalist>

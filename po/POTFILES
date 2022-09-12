@@ -1,0 +1,7 @@
+data/org.mediclab.wgstatus.desktop.in
+data/org.mediclab.wgstatus.appdata.xml.in
+data/org.mediclab.wgstatus.gschema.xml
+src/window.ui
+src/main.vala
+src/window.vala
+
